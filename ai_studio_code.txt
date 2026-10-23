@@ -1,0 +1,7 @@
+defaultConfig {
+    applicationId "dz.primary.teacher.mokarati" // معرّفك الخاص
+    minSdkVersion 21
+    targetSdkVersion 34
+    versionCode 1
+    versionName "1.0.0"
+}
